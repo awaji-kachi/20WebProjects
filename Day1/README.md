@@ -1,2 +1,2 @@
-# _Project_Starter
-Basic boilerplate for web projects
+# Project 1
+First project in 20 Web Projects
